@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ addPrimativesToCollection()
+comment1.params=
+comment1.target=void\ addPrimativesToCollectionWithAutoBoxing()
+comment2.params=
+comment2.target=void\ migrateYourExistingCodeToAutoBoxingWithoutFear()
+comment3.params=
+comment3.target=void\ allPrimativesCanBeAutoboxed()
+numComments=4
