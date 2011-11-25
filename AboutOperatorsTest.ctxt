@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ plusPlusVariablePlusPlus()
+comment1.params=
+comment1.target=void\ shortCircuit()
+comment2.params=
+comment2.target=void\ fullAnd()
+comment3.params=
+comment3.target=void\ shortCircuitAnd()
+comment4.params=
+comment4.target=void\ aboutXOR()
+comment5.params=
+comment5.target=void\ dontMistakeEqualsForEqualsEquals()
+numComments=6

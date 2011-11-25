@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ basicForLoop()
+comment1.params=
+comment1.target=void\ basicForLoopWithTwoVariables()
+comment2.params=
+comment2.target=void\ extendedForLoop()
+comment3.params=
+comment3.target=void\ whileLoop()
+comment4.params=
+comment4.target=void\ doLoop()
+comment5.params=
+comment5.target=void\ extendedForLoopBreak()
+comment6.params=
+comment6.target=void\ extendedForLoopContinue()
+comment7.params=
+comment7.target=void\ forLoopContinueLabel()
+comment8.params=
+comment8.target=void\ forLoopBreakLabel()
+numComments=9
